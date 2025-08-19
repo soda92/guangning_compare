@@ -1,6 +1,6 @@
 [project]
 name = "guangning-compare"
-version = "2025.8.15.3"
+version = "2025.8.19.0"
 description = "compare current source with guangning"
 readme = "README.md"
 authors = [
